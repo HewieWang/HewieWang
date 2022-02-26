@@ -7,9 +7,9 @@
 ### Summary
 - Familiar with big data migration and have many successful experiences
 - Very familiar with domain name transactions and very familiar with cloudflare
-- Great focus on secure code
 - Very familiar with shopify|Wordpress|shoplaza
-- Strong desire to explore
+- Have Experience with Google Firebase development
+- Great focus on secure code and Strong desire to explore
 
 <p align="center"><img width="50%" src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" /></p>
 

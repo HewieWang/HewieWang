@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p>Welcome to my page! </br> I'm Harvey, Fullstack developer from  <b>China</b>, currently living in <b>Suzhou</b>. </p>
 
 - 🔭 I’m currently working on PHP|Golang|Python|C#
 - 🌱 I’m currently learning Cooking
@@ -6,7 +7,15 @@
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=PHP&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-46a2f1?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-43853d?style=flat-square&logo=Shopify&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-46a2f1?style=flat-square&logo=Mysql&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-46a2f1?style=flat-square&logo=Golang&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-db7092?style=flat-square&logo=Cloudflare&logoColor=white" />
   <img alt="Chromedp" src="https://img.shields.io/badge/-chromedp-brightgreen?style=flat-square&logo=chromedp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-CC6699?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C#-F05032?style=flat-square&logo=C#&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />

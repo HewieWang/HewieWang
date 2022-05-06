@@ -4,6 +4,18 @@
 - 🌱 I’m currently learning Cooking
 - 😄 Breaking bad and Marvel super fan
 
+<h3>Things I code with</h3>
+<p>
+  <img alt="Chromedp" src="https://img.shields.io/badge/-chromedp-brightgreen?style=flat-square&logo=chromedp&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/aws-db7092?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
 ### Summary
 - Familiar with big data migration and have many successful experiences
 - Very familiar with domain name transactions and very familiar with cloudflare

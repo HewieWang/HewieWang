@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Welcome to my page! </br> I'm Harvey, Fullstack developer from  <b>China</b>, currently living in <b>Suzhou</b>. </p>
+<p>Welcome to my page!  I'm Harvey, Fullstack developer from  <b>China</b>, currently living in <b>Suzhou</b>. </p>
 
 - 🔭 I’m currently working on PHP|Golang|Python|C#
 - 🌱 I’m currently learning Cooking

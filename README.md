@@ -22,7 +22,6 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/aws-db7092?style=flat-square&logo=aws&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 <details>
@@ -44,6 +43,7 @@
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
+[![Spotify](https://hewiewang.vercel.app/api/spotify)](https://open.spotify.com/user/hewiewang)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HewieWang&column=8&theme=onedark" />

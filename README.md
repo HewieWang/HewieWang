@@ -2,7 +2,6 @@
 <p>Welcome to my page!  I'm Harvey, Fullstack developer from  <b>China</b>, currently living in <b>Suzhou</b>. </p>
 
 - 🔭 I’m currently working on PHP|Golang|Python|C#
-- 🌱 I’m currently learning Cooking
 - 😄 Breaking bad and Marvel super fan
 
 <h3>Things I code with</h3>
@@ -31,19 +30,11 @@
 
 </details>
 
-### Summary
-- Familiar with big data migration and have many successful experiences
-- Very familiar with domain name transactions and very familiar with cloudflare
-- Very familiar with shopify|Wordpress|shoplaza
-- Have Experience with Google Firebase development
-- Great focus on secure code and Strong desire to explore
-
 <p align="center"><img width="50%" src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" /></p>
 
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
-[![Spotify](https://hewiewang.vercel.app/api/spotify)](https://open.spotify.com/user/hewiewang)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HewieWang&column=8&theme=onedark" />

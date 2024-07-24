@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Welcome to my page!  I'm Harvey, Fullstack developer from  <b>China</b>, currently living in <b>Suzhou</b>. </p>
+<p>Welcome to my page!  I'm Harvey, Fullstack developer</p>
 
 - 🔭 I’m currently working on PHP|Golang|Python|C#
 - 😄 Breaking bad and Marvel super fan
@@ -30,7 +30,7 @@
 
 </details>
 
-<p align="center"><img width="50%" src="[https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVpcTRhcGpxd3JwMDJzbmV2aGJtb20ydGtweThwMm41NDVlMTN1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.webp)" /></p>
+<p align="center"><img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNhdzFrb3diNndpOGtwNDE0MzViYTF2enVzOHlnN204cTg5andsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" /></p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HewieWang&column=8&theme=onedark" />

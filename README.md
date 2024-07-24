@@ -30,19 +30,8 @@
 
 </details>
 
-<p align="center"><img width="50%" src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" /></p>
-
-### Now Playing 🎧
-
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
+<p align="center"><img width="50%" src="[https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVpcTRhcGpxd3JwMDJzbmV2aGJtb20ydGtweThwMm41NDVlMTN1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.webp)" /></p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HewieWang&column=8&theme=onedark" />
-</div>
-
-<div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
 </div>

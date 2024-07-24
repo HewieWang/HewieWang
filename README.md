@@ -165,47 +165,47 @@
 	</a>
   <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
-		alt="travisci"  width="50" height="50"/>
+		alt="travisci"   height="50"/>
 	</a>
    <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"
-		alt="travisci" width="50" height="50" />
+		alt="travisci" " height="50" />
 	</a>
     <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"
-		alt="travisci" width="50" height="50" />
+		alt="travisci"  height="50" />
 	</a>
      <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
-		alt="travisci" width="50" height="50" />
+		alt="travisci"  height="50" />
 	</a>
     <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"
-		alt="travisci" width="50" height="50" />
+		alt="travisci"  height="50" />
 	</a>
      <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
-		alt="travisci"  width="50" height="50"/>
+		alt="travisci"   height="50"/>
 	</a>
      <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"
-		alt="travisci"  width="50" height="50"/>
+		alt="travisci"   height="50"/>
 	</a>
      <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"
-		alt="travisci"  width="50" height="50"/>
+		alt="travisci"   height="50"/>
 	</a>
     <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"
-		alt="travisci"  width="50" height="50"/>
+		alt="travisci"   height="50"/>
 	</a>
     <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg"
-		alt="travisci" width="50" height="50" />
+		alt="travisci"  height="50" />
 	</a>
     <a href="https://travis-ci.org" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"
-		alt="travisci" width="50" height="50"/>
+		alt="travisci"  height="50"/>
 	</a>
 </p>
 

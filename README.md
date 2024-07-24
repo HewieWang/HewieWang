@@ -4,10 +4,13 @@
 - 🔭 I’m currently working on PHP|Golang|Python|C#
 - 😄 Breaking bad and Marvel super fan
 
+<style>
+	.box img{max-width:50px;}
+</style>
 <details open>
   <summary open><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
-  <p align="left">
+  <p align="left" class="box">
 	<a href="https://cordova.apache.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"
 		alt="apachecordova"  />

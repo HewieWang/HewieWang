@@ -211,10 +211,3 @@
 
 </details>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HewieWang&column=8&theme=onedark" />
-</div>
-
-<p align="center"><img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNhdzFrb3diNndpOGtwNDE0MzViYTF2enVzOHlnN204cTg5andsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" /></p>
-
-
